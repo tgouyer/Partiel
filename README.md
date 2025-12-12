@@ -1,6 +1,6 @@
 # Projet TP Git
 
-**Nom du projet : À REMPLACER PAR LE GROUPE**
+***Groupe JTE : TP GIT  groupe 9*
 
 Bienvenue dans ce petit TP Git.
 
